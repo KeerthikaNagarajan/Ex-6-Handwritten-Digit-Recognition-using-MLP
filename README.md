@@ -1,11 +1,9 @@
-# Ex-6-Handwritten Digit Recognition using MLP
+# Handwritten Digit Recognition using MLP
 ## AIM:
 To Recognize the Handwritten Digits using Multilayer perceptron.
 ##  EQUIPMENTS REQUIRED:
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
-
-
 
 ## Algorithm :
 1.Import the necessary libraries of python.
